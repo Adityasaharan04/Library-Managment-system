@@ -4,9 +4,11 @@ This is a Library Management System project designed to manage library resources
 
 ## Installation
 
-1. **Download and Unzip File**: Download the project file and unzip it on your local system. You should now have a folder named "library".
+1. **Download and Unzip File**: Download the project file and unzip it on your local system. You should now have a folder named "Online-Library-Management-System
+".
 
-2. **Move Folder to Root Directory**: Move the "library" folder into the root directory of your web server. For example:
+2. **Move Folder to Root Directory**: Move the "Online-Library-Management-System
+" folder into the root directory of your web server. For example:
    - For Apache: `/var/www/html`
    - For XAMPP: `C:\xampp\htdocs`
 
